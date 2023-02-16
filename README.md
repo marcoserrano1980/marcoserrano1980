@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Serrano</h1>
-<h3 align="center">A software junior developer with a passion for creating innovative and efficient solutions for complex problems. I have a clear understanding of software development and am proficient in various technical languages.</h3>
+<h3 align="center">I am looking for a junior software developer or Web Developer position, with a passion for creating innovative and efficient solutions for complex problems. I have a clear understanding of software development and am proficient in various technical languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
